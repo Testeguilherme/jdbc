@@ -5,6 +5,8 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.sql.Statement;
 
+import connection.ConnectionFactory;
+
 public class TestaRemocao {
 
 		public static void main(String[] args) throws SQLException {
